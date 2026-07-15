@@ -8,7 +8,7 @@ and apply, all in one place.
 > never fabricates experience. It reframes what is real, and a person always approves before
 > anything is sent.
 
-_Co-founded, full-stack AI product. Currently in active development._
+_Founded and built as a full-stack AI product. Currently in active development._
 
 ---
 
@@ -39,7 +39,7 @@ Freemium model: a free tier plus paid Pro and Max plans.
 
 ## Status
 
-Co-founded and in active development. This repository is a public overview; the application source
+Founded and in active development. This repository is a public overview; the application source
 is kept private.
 
 Overview maintained by [Yaser Selvam](https://github.com/yaserselvam).
